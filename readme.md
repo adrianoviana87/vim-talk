@@ -53,13 +53,37 @@ e ele é otimizado para isso.
 
 ## Sintaxe da linguagem
 
-### Verbo + Substantivo (Objeto)
+### Quantidade + Verbo + Advérbio + (Substantivo (Objeto) / movimento)
 
-**d** => delete
+Exemplo:
 
-**w** => word
+**2** => 2 -- quantidade
 
-**dw** => delete word
+**d** => delete -- verbo
+
+**a** => around -- advérbio
+
+**w** => word -- movimento
+
+**2w** => 2 words -- movimento
+
+**h** => esquerda
+
+**j** => abaixo
+
+**k** => acima
+
+**l** => direita
+
+Ação:
+
+**d2w** => delete 2 words
+
+**daw** => delete around word
+
+**2d2w** => 2 * delete around word
+
+**d2j** => delete 2 lines down
 
 ### Comandos podem ser repetidos ou desfeitos
 
