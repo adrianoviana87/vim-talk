@@ -1,0 +1,12 @@
+╔═════════════════════╗
+║   Modo de Comando  ║
+╚═════════════════════╝
+
+ comandos podem ser abreviados
+ w = write
+ wa = write all
+ q = quit
+ qa = quit all
+ wqa = write, quit all
+ e = edit
+ split = split horizontally

@@ -1,0 +1,9 @@
+╔═══════════════════════════╗
+║    Modo de Visualização  ║
+╚═══════════════════════════╝
+
+ teclas de movimentos funcionam
+ v = visual | entra no modo de seleção
+ V = visual | entra no modo de seleção de linha
+ ctrl + v = visual block | entra no modo de seleção retangular
+ esc = sai

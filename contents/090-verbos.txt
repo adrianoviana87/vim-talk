@@ -1,0 +1,13 @@
+╔═════════════╗
+║    Verbos  ║
+╚═════════════╝
+
+ d = delete
+ c = change
+ x = cut
+ r = replace
+ s = substitute
+ d = delete
+ y = yank (copy)
+ p = paste
+ > = indent

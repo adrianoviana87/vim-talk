@@ -1,0 +1,11 @@
+╔══════════════╗
+║   Pesquisa  ║
+╚══════════════╝
+ / = pesquisa
+ ? = pesquisa reversa
+ f{x} = find | move o cursor para o próximo caractere
+ F{x} = find backwards | move o cursor para o caractere anterior
+ t{x} = 'till | move o cursor até o próximo caractere
+ T{x} = 'till backwards | move o cursor até o caractere anterior
+ n = next | vai para o próximo item encontrado
+ N = prev | vai para o item anterior encontrado

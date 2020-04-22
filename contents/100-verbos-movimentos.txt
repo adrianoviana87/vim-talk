@@ -1,0 +1,20 @@
+╔═══════════════════════╗
+║        + 省          ║
+║  verbos + movimentos  ║
+╚═══════════════════════╝
+
+ d = delete
+省w = word
+   dw = delete word
+
+ y = yank
+省t{x} = 'till
+   ytf = yank 'till f
+
+ c = change
+省$ = eol
+   c$ = change to the end of line
+
+ d = delete
+省G = last line
+   dG = delete to the last line

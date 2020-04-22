@@ -1,0 +1,9 @@
+╔══════════════════════╗
+║   Modo de Inserção  ║
+╚══════════════════════╝
+
+ Editor "normal"
+ ctrl+n = next suggestion
+ ctrl+p = previous suggestion
+ ctrl+x, ctrl+f = file suggestion
+ esc = sai

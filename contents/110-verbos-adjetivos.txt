@@ -1,0 +1,39 @@
+╔═════════════════════════════════╗
+║              +  + 省          ║
+║  verbos + adjetivo + movimento  ║
+╚═════════════════════════════════╝
+
+ c = change
+ i = inside
+省w = word
+   ciw = change inside word
+
+ d = delete
+ a = around
+省w = word
+   daw = delete around word
+  
+ c = change
+ a = around
+省p = paragraph
+   cap = change around paragraph
+
+ c = change
+ i = inside
+省) = )
+   ci) = change inside )
+
+ d = delete
+ i = inside
+省" = "
+   di" = delete inside "
+
+ > = indent
+  3 = 3 times
+省j = down
+   >3j = indent 3 lines down
+
+ c = change
+ i = inside
+省t = tag
+   cit = change inside tag

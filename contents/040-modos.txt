@@ -1,0 +1,12 @@
+╔═══════════╗
+║   Modos   ║
+╚═══════════╝
+ Normal
+   Vim ouvindo você
+ Visual
+   Seleciona texto
+ Inserção
+   Editor "normal"
+   Usa teclas de atalhos com CTRL
+ Comando
+   Executa comandos

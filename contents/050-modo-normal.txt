@@ -1,0 +1,8 @@
+╔═════════════════╗
+║   Modo Normal  ║ 
+╚═════════════════╝
+
+ Ouve você
+ Operações
+   Atômicas
+   Repetíveis

@@ -1,0 +1,17 @@
+╔════════════╗
+║   Agenda   ║
+╚════════════╝
+
+ Objetivo
+ Diferença entre Vim e os editores "normais"
+ Modos
+   Modo Normal
+     Movimentos
+     Pesquisa
+     Quantidade
+     Verbos
+     Verbos + movimentos
+     Verbos + adverbios + movimentos
+   Modo de Visualização
+   Modo de Inserção
+   Modo de Comando
