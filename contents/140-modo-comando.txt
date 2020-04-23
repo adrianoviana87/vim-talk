@@ -3,10 +3,12 @@
 ╚═════════════════════╝
 
  comandos podem ser abreviados
- w = write
- wa = write all
- q = quit
- qa = quit all
- wqa = write, quit all
- e = edit
- split = split horizontally
+ : = entra em modo de comando
+ :w = write
+ :wa = write all
+ :q = quit
+ :qa = quit all
+ :wqa = write, quit all
+ :e = edit
+ :split = split horizontally
+ :vsplit = split vertically

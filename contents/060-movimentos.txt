@@ -11,8 +11,6 @@
    zt = top | cursor no topo
    zz = middle | cursor no meio
    zb = bottom | cursor em baixo
-   {n}gg = go go | vai para a linha desejada
-   G = last line | vai para a última linha
  Movendo
    w = word | move uma palavra pra frente
    b = back | move uma palavra para trás
@@ -26,3 +24,5 @@
    % = vai para o próximo token correspondente
    ( = vai para o começo do parágrafo
    ) = vai para o fim do parágrafo
+   {n}gg = go go | vai para a linha desejada
+   G = last line | vai para a última linha
